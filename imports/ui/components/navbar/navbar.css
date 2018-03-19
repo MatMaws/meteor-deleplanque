@@ -6,3 +6,9 @@
 #theNavbar {
     background-color: #54adc7;
 }
+
+#login-dropdown-list {
+    position: absolute;
+    top: 30px;
+    left: -150px;
+}
